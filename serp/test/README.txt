@@ -1,0 +1,1 @@
+No teste read tem de digitar até chegar ao fim do buffer.
